@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **longetemitope@gmail.com**
 
-- 📄 Know about my experiences [https://longe-temitope-resume.netlify.app/](https://longe-temitope-resume.netlify.app/)
-
+<!-- - 📄 Know about my experiences [https://longe-temitope-resume.netlify.app/](https://longe-temitope-resume.netlify.app/)
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/longetope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="longetope" height="25" width="25" />&nbsp </a>
