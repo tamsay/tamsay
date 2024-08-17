@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Temitope</h1>
 <h3 align="center">A Software Developer and Graphics Designer</h3>
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **longetemitope@gmail.com**
 
